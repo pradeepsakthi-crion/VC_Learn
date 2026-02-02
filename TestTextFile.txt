@@ -1,3 +1,2 @@
 This is main Text
 
-This is branch text
